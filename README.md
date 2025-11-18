@@ -20,7 +20,7 @@
 /lab12/
 index.html — страница приложения
 app.js — логика аутентификации
-styles.css — стили (опционально)
+styles.css — стили 
 README.md — отчет
 ---
 
